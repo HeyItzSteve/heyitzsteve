@@ -4,7 +4,7 @@ Hi, my name is Steven. I am currently studying Electrical & Computer Engineering
 * I am very experienced in C/C++, and working on improving my Python skills.
 * I am currently learning how to apply ML to different Computer Vision tasks, which I hope to put to use in an Autonomous Vehicle design project.
 
-Contact: [LinkedIn](https://www.linkedin.com/in/stvlin02/)
+
 <hr>
 
 ![](https://komarev.com/ghpvc/?username=heyitzsteve&style=flat-square)
