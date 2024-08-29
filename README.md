@@ -2,7 +2,6 @@ Hi, my name is Steven. I am a recent graduate with a B.S. in Computer Engineerin
 
 * I'm interested in all things software & hardware! I also like Embedded Systems and FPGAs. :)
 * I am very experienced in C/C++, and working on improving my Python skills.
-* Currently working in semiconductor industry.
 
 <hr>
 
